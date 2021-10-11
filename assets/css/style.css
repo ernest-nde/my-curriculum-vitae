@@ -61,6 +61,10 @@ section span {
      color: #03A9F4;
 }
 
+article {
+     margin-top: 15px;
+}
+
 article h2 {
      color: #000;
      text-transform: uppercase;
@@ -73,6 +77,10 @@ article .form-1 {
      padding: 5px;
      display: block;
      margin-top: 5px;
+}
+
+.form-1 span {
+     font-size: .7em;
 }
 
 .technologies {
