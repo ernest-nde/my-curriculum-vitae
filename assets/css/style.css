@@ -128,3 +128,10 @@ em {
      text-transform: capitalize;
      font-weight: bold;
 }
+
+@media screen and (max-device-width: 480px) {
+     header, section, aside, footer {
+          margin: 15px;
+          width: 100%;
+     }
+}
